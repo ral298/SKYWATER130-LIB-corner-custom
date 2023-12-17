@@ -4,8 +4,6 @@ sudo apt install git
 cd
 git clone https://github.com/ral298/skywater-pdk-libs-sky130_fd_pr.git
 
-sudo apt update
-sudo apt upgrade
 pip install PySpice
 
 sudo apt install libngspice0
